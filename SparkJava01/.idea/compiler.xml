@@ -25,8 +25,8 @@
         <module name="SparkJava01" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel target="1.8">
-      <module name="SparkJava01" target="1.8" />
+    <bytecodeTargetLevel>
+      <module name="SparkJava01" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
